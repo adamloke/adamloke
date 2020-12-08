@@ -1,5 +1,4 @@
-### Aspiring full-stack developer with experience in digital analytics, a/b testing, and product management.
-
+👋
 <!--
 **adamloke/adamloke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
